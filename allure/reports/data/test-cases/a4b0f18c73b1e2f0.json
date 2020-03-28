@@ -1,0 +1,168 @@
+{
+  "uid" : "a4b0f18c73b1e2f0",
+  "name" : "Authentification",
+  "historyId" : "7fce497ea068cf33d687887c0242a1dc",
+  "time" : {
+    "start" : 1585423357947,
+    "stop" : 1585423380765,
+    "duration" : 22818
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I go to the application",
+      "time" : {
+        "start" : 1585423357949,
+        "stop" : 1585423359347,
+        "duration" : 1398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When I enter \"Admin\" in the username field",
+      "time" : {
+        "start" : 1585423359348,
+        "stop" : 1585423364435,
+        "duration" : 5087
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And I enter \"admin123\" in the password field",
+      "time" : {
+        "start" : 1585423364435,
+        "stop" : 1585423369530,
+        "duration" : 5095
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And I press the login button",
+      "time" : {
+        "start" : 1585423369530,
+        "stop" : 1585423375763,
+        "duration" : 6233
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then The dashboard page is displayed",
+      "time" : {
+        "start" : 1585423375764,
+        "stop" : 1585423380765,
+        "duration" : 5001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "#Enter feature name here"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da4a89d2ac7564f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585423253346,
+        "stop" : 1585423276388,
+        "duration" : 23042
+      }
+    }, {
+      "uid" : "4589c4d72d8e4baf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585423045116,
+        "stop" : 1585423068005,
+        "duration" : 22889
+      }
+    }, {
+      "uid" : "c5bb90c2ebcf492d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585422907528,
+        "stop" : 1585422930225,
+        "duration" : 22697
+      }
+    }, {
+      "uid" : "69f5df4b3d038fa1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585422068040,
+        "stop" : 1585422090816,
+        "duration" : 22776
+      }
+    }, {
+      "uid" : "188e1f37742534ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585397580946,
+        "stop" : 1585397603814,
+        "duration" : 22868
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4b0f18c73b1e2f0.json",
+  "parameterValues" : [ ]
+}

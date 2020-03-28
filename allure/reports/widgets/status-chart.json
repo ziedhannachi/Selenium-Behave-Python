@@ -1,0 +1,11 @@
+[ {
+  "uid" : "a4b0f18c73b1e2f0",
+  "name" : "Authentification",
+  "time" : {
+    "start" : 1585423357947,
+    "stop" : 1585423380765,
+    "duration" : 22818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
